@@ -187,44 +187,48 @@
 
         - (Metabolic Syndrome X[mh] OR Metabolic Syndrome*[tiab] OR Insulin Resistance Syndrome*[tiab] OR Reaven Syndrome*[tiab] OR Metabolic Cardiovascular Syndrome*[tiab] OR Dysmetabolic Syndrome*[tiab] OR cardiometabolic disease*[tiab] OR metabolic disease*[tiab] OR metabolic disorder*[tiab] OR metabolic abnormalit*[tiab] OR metabolic disturban*[tiab] OR cardiovascular syndrome*[tiab] OR cardiometabolic syndrome*[tiab] OR cardiovascular diseases[mh] OR cardiovascular disease*[tiab] OR cardiometabolic risk*[tiab]) AND (guideline[pt] OR Practice Guidelines as Topic [mh] OR guideline*[ti] OR Best Practice*[ti] OR recommend*[ti])
 
+    - 나) 포함 및 배제기준: 1차 검색과 동일
+
 #### Table 1-6. 대사증후군 진료지침 운영위원회 및 개발위원회 모임
 
 |날짜|모임명|장소|논의 및 결의사항|
 |---|---|---|---|
-|2011년 8월 9일|임상진료지침 위원회 발족식|대한가정의학회|임상진료지침 위원회 발족식 임상진료지침 개발일정 및 전략수립|
+|2011년 8월 9일|임상진료지침 위원회 발족식|대한가정의학 학회사무국|임상진료지침 위원회 발족식 임상진료지침 개발일정 및 전략수립|
 |2011년 11월 5일|대한가정의학회 추계학술대회 대사증후군 진료지침 세미나|워커힐호텔 그랜드홀|임상진료지침 개요 임상진료지침과 일차진료 임상진료지침 개발의 타 학회 사례|
-|2012년 3월 7일|운영위원회 1차 회의|대한가정의학회|대사증후군 임상진료지침 개발 일정 논의 대사증후군 임상진료지침 개발 방법 결정(수용 개작) 핵심질문 선정 방법 결정 소위원회 구성방법 논의|
-|2012년 3월 29일|운영위원회 2차 회의|대한가정의학회|대사증후군 임상진료지침 검색 방법 결정|
-|2012년 4월 13일|운영위원회 3차 회의|대한가정의학회|대사증후군 관련 기존 임상진료지침 선별 선별된 기존 임상진료지침 평가방법 결정 진료지침 범위 및 목표사용자 선정(PIPOH)|
-|2012년 5월 4일|운영위원회 4차 회의|대한가정의학회|대사증후군 임상진료지침 제목 수정 핵심질문 선정 이해관계선언문 작성|
-|2012년 5월 21일|운영위원회 5차 회의|대한가정의학회|대사증후군 임상진료지침 목차 결정 핵심질문 선정 및 수정 워크숍 및 개시모임 일정 논의|
-|2012년 6월 18일|개발위원회 개시모임|서울역 지하2층|임상진료지침 개발 경과보고 임상진료지침 개요 강의 소위원회 구성방안 결정|
-|2012년 8월 18일|제1차 워크숍|세브란스병원|체계적 문헌고찰 개요 의학 database 강의 및 실습 임상진료지침 및 adaptation process AGREE II를 이용한 임상진료지침 평가|
-|2012년 9월 4일|운영위원회 6차 회의|강남세브란스병원|대사증후군 관련 문헌고찰 방법 결정 참고문헌 선정|
-|2012년 9월 22일|대한가정의학회 추계학술대회 대사증후군 진료지침 세미나|서울 그랜드힐튼호텔|대사증후군 관련 RCT 문헌검색 결과 발표|
-|2012년 9월 22일|운영위원회 7차 회의|서울 그랜드힐튼호텔|대사증후군 문헌고찰 발표결과 평가|
+|2012년 3월 7일|운영위원회 1차 회의|대한가정의학회 학회사무국|대사증후군 임상진료지침 개발 일정 논의 대사증후군 임상진료지침 개발 방법 결정(수용 개작) 핵심질문 선정 방법 결정 소위원회 구성방법 논의|
+|2012년 3월 29일|운영위원회 2차 회의|대한가정의학회 학회사무국|대사증후군 임상진료지침 검색 방법 결정|
+|2012년 4월 13일|운영위원회 3차 회의|대한가정의학회 학회사무국|대사증후군 관련 기존 임상진료지침 선별 선별된 기존 임상진료지침 평가방법 결정 진료지침 범위 및 목표사용자 선정(PIPOH)|
+|2012년 5월 4일|운영위원회 4차 회의|대한가정의학회 학회사무국|대사증후군 임상진료지침 제목 수정 핵심질문 선정 이해관계선언문 작성|
+|2012년 5월 21일|운영위원회 5차 회의|대한가정의학회 학회사무국|대사증후군 임상진료지침 목차 결정 핵심질문 선정 및 수정 워크숍 및 개시모임 일정 논의|
+|2012년 6월 18일|개발위원회 개시모임|서울역 지하2층 산천봉피양|임상진료지침 개발 경과보고 임상진료지침 개요 강의 소위원회 구성방안 결정|
+|2012년 8월 18일|제1차 워크숍|세브란스병원 스마트센터|체계적 문헌고찰 개요 의학 database 강의 및 실습 임상진료지침 및 adaptation process AGREE II를 이용한 임상진료지침 평가|
+|2012년 9월 4일|운영위원회 6차 회의|강남세브란스병원 17회의실|대사증후군 관련 문헌고찰 방법 결정 참고문헌 선정|
+|2012년 9월 22일|대한가정의학회 추계학술대회 대사증후군 진료지침 세미나|서울 그랜드힐튼호텔 피콕홀|대사증후군 관련 RCT 문헌검색 결과 발표|
+|2012년 9월 22일|운영위원회 7차 회의|서울 그랜드힐튼호텔 테라스라운지|대사증후군 문헌고찰 발표결과 평가|
 |2012년 10월 8일|운영위원회 8차 회의|서울역 진진바라|AGREE II를 이용한 기존 임상진료지침 평가 근거수준 및 권고수준 결정방법 논의 핵심질문 구성방법 논의|
-|2012년 11월 8일|제2차 워크숍|대한가정의학회|GRADE 강의 및 권고안 작성 실습 GRADEpro를 이용한 권고안 만들기 실습 체계적 문헌고찰 주제선정|
-|2012년 11월 28일|운영위원회 9차 회의|강남세브란스병원|대사증후군 임상진료지침 집필 방법 결정 체계적 문헌고찰 검색방법 결정|
+|2012년 11월 8일|제2차 워크숍|대한가정의학회 학회사무국|GRADE 강의 및 권고안 작성 실습 GRADEpro를 이용한 권고안 만들기 실습 체계적 문헌고찰 주제선정|
+|2012년 11월 28일|운영위원회 9차 회의|강남세브란스병원 델리야|대사증후군 임상진료지침 집필 방법 결정 체계적 문헌고찰 검색방법 결정|
 |2013년 1월 9일|운영위원회 10차 회의|유끼|초안 조정회의|
-|2013년 2월 18일|운영위원회 11차 회의|연세대학교 의과대학|진료지침 권고안 작성 및 초안검토 그룹토의실 111호|
+|2013년 2월 18일|운영위원회 11차 회의|연세대학교 의과대학 그룹 토의실 111호|진료지침 권고안 작성 및 초안검토|
 |2013년 3월 11일|운영위원회 12차 회의|강남세브란스병원 16회의실|작성된 권고안에 대한 합의|
 |2013년 3월 19일|공청회|강남세브란스병원 인흥홀|‘대한민국 성인에서 대사증후군 예방 및 치료’ 임상진료지침 개발 결과발표 및 관계자 의견청취|
 |2013년 4월 5일|공개발표|인터불고 대구|대한가정의학회 춘계학술대회 공개발표|
 
 ---
 
-나) 포함 및 배제기준: 1차 검색과 동일
-
 (2) 검색원 및 검색엔진
 
-다음과 같은 검색원 및 검색엔진을 이용하여 진료지침을 검색하였다(Table 1-7).
+- 다음과 같은 검색원 및 검색엔진을 이용하여 진료지침을 검색하였다(Table 1-7).
 
-수용개작 대상 임상진료지침에는 대사증후군 진료지침이 아니더라도 심뇌혈관질환의 예방 및 치료에 관한 내용을 포함하고 있고, 질이 낮지 않으며, 진료지침의 최신성에 문제가 되지 않고 수용개작에 적합한 공신력 있는 단체가 개발한 진료지침이 포함되었다.
+- 수용개작 대상 임상진료지침에는 대사증후군 진료지침이 아니더라도 심뇌혈관질환의 예방 및 치료에 관한 내용을 포함하고 있고, 질이 낮지 않으며, 진료지침의 최신성에 문제가 되지 않고 수용개작에 적합한 공신력 있는 단체가 개발한 진료지침이 포함되었다.
 
-1차 검색을 통하여 총 13개의 진료지침을 선별 후 운영위원회에서 적합성을 평가하였다. 적합성 평가는 각 진료지침을 2명의 운영위원이 평가하였으며 1점, 3점 및 5점을 절단점으로 하여 점수를 매겼다(Table 1-8). 2명의 운영위원 평가에 기초한 운영위원회 회의를 통하여 수용개작에 적합한 3개의 진료지침을 선별하였다(Table 1-9).
+- 1차 검색을 통하여 총 13개의 진료지침을 선별 후 운영위원회에서 적합성을 평가하였다. 적합성 평가는 각 진료지침을 2명의 운영위원이 평가하였으며 1점, 3점 및 5점을 절단점으로 하여 점수를 매겼다(Table 1-8). 2명의 운영위원 평가에 기초한 운영위원회 회의를 통하여 수용개작에 적합한 3개의 진료지침을 선별하였다(Table 1-9).
 
-**Table 1-7. 임상진료지침 검색원 및 검색엔진**
+- 2차 검색을 통해 새롭게 추가된 2개의 진료지침 및 대한스포츠의학회에서 추천한 1개의 진료지침을 대상으로 소위원회 간사들이 적합도 평가를 시행하였다. 각 진료지침 적합도 평가는 다음 표에 정리하였다(Table 1-10).
+
+- 수용개작의 대상이 되는 4개의 임상진료지침을 선정한 후 Appraisal of Guideline for Research and Evaluation (AGREE) II을 이용하여 각 진료지침을 2명의 운영위원이 평가하였으며, 점수간 일치를 보이지 않는 항목에 대하여 서로 간의 합의를 통하여 다음과 같이 점수를 매겼다(Table 1-11, Table 1-12). 또한 임상진료지침 위원회의 회의를 통하여 수용개작에 필요한 핵심질문(key question)을 도출하였다. 또한 도출된 핵심질문은 PICO (P, patient; I, intervention; C, comparison; O, Outcome) 형식으로 정리하였다(Table 1-13).
+
+#### Table 1-7. 임상진료지침 검색원 및 검색엔진
 
 |검색원|검색엔진|
 |---|---|
@@ -262,7 +266,7 @@
 |Google|http://www.google.com|
 |Yahoo|http://www.yahoo.com|
 
-**Table 1-8. 수용개작 대상 임상진료지침 선별을 위한 절단점**
+#### Table 1-8. 수용개작 대상 임상진료지침 선별을 위한 절단점
 
 |절단점|내용|
 |---|---|
@@ -272,7 +276,7 @@
 
 ---
 
-**Table 1-9. 대사증후군 관련 임상진료지침의 자료모음 및 적합성 평가**
+#### Table 1-9. 대사증후군 관련 임상진료지침의 자료모음 및 적합성 평가
 
 |   | 발행처 | 제목 | 출간연도/평가자 | 국가 | 적합성 |
 |---|--------|------|----------------|------|--------|
@@ -280,53 +284,47 @@
 | 평가 | 전체적인 내용이 유사하고 대부분의 내용을 adaptation 할 수 있을 듯함. | |평가자 1<br>평가자 2 |5<br>4| |
 | 2 | European Society of Cardiology (ESC) et al. | European guidelines on cardiovascular disease prevention in clinical practice (version 2012) | 2012 | 유럽연합 | O |
 | 평가 | 새롭게 작성된 가이드라인으로 심혈관질환의 예방에 초점을 맞추고 있으나,대사증후군 치료의 궁극적인 목표가 심혈관질환을 예방하는 것이므로 수용개작에 적합. | |평가자 1<br>평가자 2|4<br>5| |
-| 3 | Scottish Intercollegiate Guidelines Network (SIGN) | Risk estimation and the prevention of cardiovascular disease | 2007 | 스코틀랜드 |  |  | O |
+| 3 | Scottish Intercollegiate Guidelines Network (SIGN) | Risk estimation and the prevention of cardiovascular disease | 2007 | 스코틀랜드 | O |
 | 평가 | 국가에서 만든 진료지침이고, 근거수준 및 근거가 명확함. 운동 및 식이요법 등에서 수용가적에 인용될 수 있는 부분이 있음. |  | 평가자 1<br>평가자 2 | 3<br>3 |  |  |
-| 4 | National Institute for Health and Clinical Excellence (NICE) | Lipid modification Cardiovascular risk assessment and the modification of blood lipids for the primary and secondary prevention of cardiovascular disease | 2008 | 영국 |  |  | △ |
+| 4 | National Institute for Health and Clinical Excellence (NICE) | Lipid modification Cardiovascular risk assessment and the modification of blood lipids for the primary and secondary prevention of cardiovascular disease | 2008 | 영국 | △ |
 | 평가 | 위험도 평가와 질적 관리 등의 내용이 적절하지만, 환자진료에 대한 권고사항이 아닌 비용효과측면을 강조한 부분이 있어 대사증후군 진료지침 수용가적에 부적절. |  | 평가자 1<br>평가자 2 | 4<br>2 |  |  |
-| 5 | European Society of Cardiology and European Association for the Study of Diabetes (ESG/EASD) | Guidelines on diabetes, pre-diabetes, and cardiovascular diseases | 2007 | 유럽연합 |  |  | △ |
+| 5 | European Society of Cardiology and European Association for the Study of Diabetes (ESG/EASD) | Guidelines on diabetes, pre-diabetes, and cardiovascular diseases | 2007 | 유럽연합 | △ |
 | 평가 | 개별질환에 대한 권고를 하고 있으며, 대사증후군에 대한 권고 및 설명은 생활습관을 중심으로 아주 짧게 기술됨. 방법론적으로 임상질문, 권고 등, 요약도 등이 누락되어 수용가적을 하기에 적합하지 않음. |  | 평가자 1<br>평가자 2 | 2<br>3 |  |  |
-| 6 | Bader Almusafa and Group | Cardiometabolic risk management guidelines in primary care | 2011 | 사우디아라비아 |  |  | △ |
+| 6 | Bader Almusafa and Group | Cardiometabolic risk management guidelines in primary care | 2011 | 사우디아라비아 | △ |
 | 평가 | 심혈관 및 대사질환에 대한 질환별 정리가 잘 되어있지만, 수용개작된 진료지침으로 아랍어로 기술된 부분이 있음. 구조 및 형식을 차용할 가치는 있으나, 수용개작된 진료지침을 다시 수용개작한다는 부분은 문제가 있을 가능성이 있음. |  | 평가자 1<br>평가자 2 | 4<br>4 |  |  |
-| 7 | American Heart Association / National Heart, Lung, and Blood Institute (AHA/NHLBI) | Diagnosis and Management of the Metabolic Syndrome: An American Heart Association/National Heart, Lung, and Blood Institute Scientific Statement | 2005 | 미국 |  |  | X |
+| 7 | American Heart Association / National Heart, Lung, and Blood Institute (AHA/NHLBI) | Diagnosis and Management of the Metabolic Syndrome: An American Heart Association/National Heart, Lung, and Blood Institute Scientific Statement | 2005 | 미국 | X |
 | 평가 | 비교적 scope에 맞으나 summary여서 정확한 판단으로 어려움. 원본 접근 어려움. 7년 전 개발된 진료지침으로 상당부분의 update가 필요할 것으로 추정됨. |  | 평가자 1<br>평가자 2 | 3<br>2 |  |  |
-| 8 | American Heart Association (AHA) | Diet and Lifestyle Recommendations Revision 2006: A Scientific Statement From the American Heart Association Nutrition Committee | 2006 | 미국 |  |  | X |
+| 8 | American Heart Association (AHA) | Diet and Lifestyle Recommendations Revision 2006: A Scientific Statement From the American Heart Association Nutrition Committee | 2006 | 미국 | X |
 | 평가 | 개발된지 비교적 오래된 내용으로, 식이요법 등의 부분에서 대한민국 국민에 권고될 내용이 상당히 차이가 날 가능성 있음. 단 예방부분은 인용할 만한 부분이 있음. |  | 평가자 1<br>평가자 2 | 3<br>3 |  |  |
-| 9 | National Institute for Health and Clinical Excellence (NICE) | Prevention of cardiovascular disease at population level | 2010 | 영국 |  |  | X |
+| 9 | National Institute for Health and Clinical Excellence (NICE) | Prevention of cardiovascular disease at population level | 2010 | 영국 | X |
 | 평가 | 대부분 운동 및 식이요법의 예방 프로그램을 소개하는 내용으로, 일반대중을 목표사용자로 한 안내서. 임상진료지침으로 보기 어려움. |  | 평가자 1<br>평가자 2 | 2<br>2 |  |  |
-| 10 | Canadian Cardiovascular society | 2009 Canadian Cardiovascular Society/Canadian guidelines for the diagnosis and treatment of dyslipidemia and prevention of cardiovascular disease in the adult | 2009 | 캐나다 |  |  | X |
+| 10 | Canadian Cardiovascular society | 2009 Canadian Cardiovascular Society/Canadian guidelines for the diagnosis and treatment of dyslipidemia and prevention of cardiovascular disease in the adult | 2009 | 캐나다 | X |
 | 평가 | 생활습관 내용도 다루고 있어 일부 내용이 치료 면에서 수용개작에 인용될 수 있는 부분이 있음. |  | 평가자 1<br>평가자 2 | 3<br>2 |  |  |
-| 11 | American College of Cardiology Foundation / American Heart Association (ACCF/AHA) | 2010 ACCF/AHA Guideline for Assessment of Cardiovascular Risk in Asymptomatic Adults | 2010 | 미국 |  |  | X |
+| 11 | American College of Cardiology Foundation / American Heart Association (ACCF/AHA) | 2010 ACCF/AHA Guideline for Assessment of Cardiovascular Risk in Asymptomatic Adults | 2010 | 미국 | X |
 | 평가 | 최근 문헌이지만 대사증후군보다는 심혈관질환의 예방이라는 관점에서 접근하여, 본 진료지침과 초점이 다름. 예방과 치료보다는 심혈관 질환을 평가하는 검사에 초점이 맞춰짐. |  | 평가자 1<br>평가자 2 | 3<br>1 |  |  |
-| 12 | National vascular disease Prevention Alliance | Absolute cardiovascular disease risk | 2009 | 호주 |  |  | X |
+| 12 | National vascular disease Prevention Alliance | Absolute cardiovascular disease risk | 2009 | 호주 | X |
 | 평가 | 호주 국민에 적용하기 위한 진료지침으로, 주로 심혈관 질환 위험도 평가를 위한 내용을 다루고 있어 수용개작에 적합하지 않음. |  | 평가자 1<br>평가자 2 | 2<br>2 |  |  |
-| 13 | International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute; American Heart Association; World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity | Harmonizing the Metabolic Syndrome: A Joint Interim Statement of the International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute; American Heart Association; World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity | 2009 | 다국적 |  |  | X |
+| 13 | International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute; American Heart Association; World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity | Harmonizing the Metabolic Syndrome: A Joint Interim Statement of the International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute; American Heart Association; World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity | 2009 | 다국적 | X |
 | 평가 | 대사증후군의 진단기준을 통일하기 위한 statement로 권고안이나 임상질문이 없어, 진료지침으로 보기 어렵고, 수용개작에 적합하지 않음. |  | 평가자 1<br>평가자 2 | 1<br>2 |  |  |
-
 
 ---
 
-2차 검색을 통해 새롭게 추가된 2개의 진료지침 및 대한스포츠의학회에서 추천한 1개의 진료지침을 대상으로 소위원회 간사들이 적합도 평가를 시행하였다. 각 진료지침 적합도 평가는 다음 표에 정리하였다(Table 1-10).
+### 3) 확정단계(adaptation phase)
 
-수용개작의 대상이 되는 4개의 임상진료지침을 선정한 후 Appraisal of Guideline for Research and Evaluation (AGREE) II을 이용하여 각 진료지침을 2명의 운영위원이 평가하였으며, 점수간 일치를 보이지 않는 항목에 대하여 서로 간의 합의를 통하여 다음과 같이 점수를 매겼다(Table 1-11, Table 1-12). 또한 임상진료지침 위원회의 회의를 통하여 수용개작에 필요한 핵심질문(key question)을 도출하였다.6) 또한 도출된 핵심질문은 PICO (P, patient; I, intervention; C, comparison; O, Outcome) 형식으로 정리하였다(Table 1-13).
+근거가 부족하거나 국내 실정에 맞지 않는 핵심질문에 대해서는 권고안을 도출하지 않기로 합의하였다. 권고안 초안에 대하여 수정된 델파이기법을 이용하여 합의를 도출했으며, 대면회의를 통하여 승인하였다. 본문 초안에 대하여 수회에 걸쳐 회의와 이메일을 통한 평가 후 이를 보완하였으며, 완성된 임상진료지침에 대한 외부 검토 및 자문은 대한심장학회, 대한예방의학회, 대한스포츠의학회, 한국임상영양학회, 임상건강증진학회 및 대한가정의학과 의사회에서 시행하였다. 외부 검토 및 자문을 통해 제시된 일부 요구사항을 반영하여 임상진료지침을 수정할 예정이다. ‘대사증후군’이라는 질환과 관련이 있는 이해 관련 학회의 승인을 받기 위해 대한의학회 임상진료지침 전문위원회를 통해 검토를 의뢰하였다. 또한 공청회 개최 및 대한가정의학회 홈페이지에 공시하여 추가적인 외부평가를 시행한 후 이를 반영하여 최종적으로 수정 및 완성하였다. 이러한 과정을 통하여 완성된 ‘대한민국 성인에서 대사증후군의 예방 및 치료’ 임상진료지침은 대한가정의학회지에 발표되며, 본 진료지침 개발에 참여한 해당 학회의 학술대회에서 발표될 예정이다.
 
-3) 확정단계(adaptation phase)
+#### Table 1-10. 추가 검색 및 추천된 임상진료지침의 적합도 평가
 
-근거가 부족하거나 국내 실정에 맞지 않는 핵심질문에 대해서는 권고안을 도출하지 않기로 합의하였다. 권고안 초안에 대하여 수정된 델파이기법을 이용하여 합의를 도출했으며, 대면회의를 통하여 승인하였다. 본문 초안에 대하여 수회에 걸쳐 회의와 이메일을 통한 평가 후 이를 보완하였으며, 완성된 임상진료지침에 대한 외부 검토 및 자문은 대한심장학회, 대한예방의학회,
+|   | 발행처 | 제목 | 출간연도 | 국가 | 적합성 |
+|---|---|---|---|---|---|
+| 1 | U.S. Department of Health and Human Services | Physical Activity Guidelines Advisory Committee Report | 2008 | 미국 | O |
+| 평가 | 신체활동 및 운동에 대한 진료지침으로 생활습관 교정을 위한 신체활동 증가에 대한 내용이 잘 정리되어 있음. |  |  |  |  |
+| 2 | American Heart Association | Effectiveness-based Guidelines for the Prevention of Cardiovascular Disease in Women-2011 Update | 2011 | 미국 | X |
+| 평가 | 구성이 진료지침에 적합하지 않고, 권고안 및 근거가 체계적으로 정리되지 않아 적합하지 않음. |  |  |  |  |
+| 3 | The Endocrine Society Clinical Guidelines Subcommittee | Evaluation and Treatment of Hypertriglyceridemia: An Endocrine Society Clinical Practice Guideline | 2012 | 미국 | X |
+| 평가 | 고중성지방혈증 치료에 초점을 맞추어 대사증후군 진료지침에 적합하지 않음. |  |  |  |  |
 
-**Table 1-10. 추가 검색 및 추천된 임상진료지침의 적합도 평가**
-
-|   | 발행처 | 제목 | 출간연도 | 국가 | 평가자 | 점수 | 적합성 |
-|---|---|---|---|---|---|---|---|
-| 1 | U.S. Department of Health and Human Services | Physical Activity Guidelines Advisory Committee Report | 2008 | 미국 |  |  | O |
-| 평가 | 신체활동 및 운동에 대한 진료지침으로 생활습관 교정을 위한 신체활동 증가에 대한 내용이 잘 정리되어 있음. |  |  |  |  |  |  |
-| 2 | American Heart Association | Effectiveness-based Guidelines for the Prevention of Cardiovascular Disease in Women-2011 Update | 2011 | 미국 |  |  | X |
-| 평가 | 구성이 진료지침에 적합하지 않고, 권고안 및 근거가 체계적으로 정리되지 않아 적합하지 않음. |  |  |  |  |  |  |
-| 3 | The Endocrine Society Clinical Guidelines Subcommittee | Evaluation and Treatment of Hypertriglyceridemia: An Endocrine Society Clinical Practice Guideline | 2012 | 미국 |  |  | X |
-| 평가 | 고중성지방혈증 치료에 초점을 맞추어 대사증후군 진료지침에 적합하지 않음. |  |  |  |  |  |  |
-
-
-**Table 1-11. AGREE II을 이용한 진료지침의 평가**
+#### Table 1-11. AGREE II을 이용한 진료지침의 평가
 
 | 영역 | 평가항목 | AHA/NHLBI | ESC | SIGN | PAGAC |
 |------|-------------------------------------------------------------------|----------|-----|------|-------|
@@ -356,18 +354,18 @@
 
 ---
 
-**Table 1-12. AGREE II를 이용한 진료지침의 영역별 점수**
+#### Table 1-12. AGREE II를 이용한 진료지침의 영역별 점수
 
 | |범위와 목적|이해당사자의 참여|개발의 엄격성|표현의 명확성|적용성|편집의 독립성|
 |---|---|---|---|---|---|---|
-|AHA/NHLBI*)|56|44|50|78|46|67|
-|ESC†)|89|78|65|94|54|50|
-|SIGN‡)|78|78|65|83|46|42|
-|PAGAC§)|89|50|42|78|17|17|
+|AHA/NHLBI|56|44|50|78|46|67|
+|ESC|89|78|65|94|54|50|
+|SIGN|78|78|65|83|46|42|
+|PAGAC|89|50|42|78|17|17|
 
 *) Primary Prevention of Cardiovascular Disease and Type 2 Diabetes in Patients at Metabolic Risk: An Endocrine Society Clinical Practice Guideline. European guidelines on cardiovascular disease prevention in clinical practice (version 2012): the fifth joint task force of the European society of cardiology and other societies on cardiovascular disease prevention in clinical practice (constituted by representatives of nine societies and by invited experts). Risk estimation and the prevention of cardiovascular disease. Physical Activity Guideline Advisory Committee Report, 2008.
 
-**Table 1-13. 핵심질문**
+#### Table 1-13. 핵심질문
 
 |예방 및 치료 방법|핵심질문|
 |---|---|
@@ -395,17 +393,15 @@
 |1) 메트포르민|① 대사증후군 환자에서 메트포르민 복용이 대사증후군 치료에 효과적인가?|
 |2) 아스피린|① 대사증후군 환자에서 아스피린의 투여가 심뇌혈관질환의 예방에 효과적인가?|
 
-대한스포츠의학회, 한국임상영양학회, 임상건강증진학회 및 대한가정의학과 의사회에서 시행하였다. 외부 검토 및 자문을 통해 제시된 일부 요구사항을 반영하여 임상진료지침을 수정할 예정이다. ‘대사증후군’이라는 질환과 관련이 있는 이해 관련 학회의 승인을 받기 위해 대한의학회 임상진료지침 전문위원회를 통해 검토를 의뢰하였다. 또한 공청회 개최 및 대한가정의학회 홈페이지에 공시하여 추가적인 외부평가를 시행한 후 이를 반영하여 최종적으로 수정 및 완성하였다. 이러한 과정을 통하여 완성된 ‘대한민국 성인에서 대사증후군의 예방 및 치료’ 임상진료지침은 대한가정의학회지에 발표되며, 본 진료지침 개발에 참여한 해당 학회의 학술대회에서 발표될 예정이다.
-
 ---
 
-### 제2장 대사증후군 정의, 역학 및 진단기준
+## 제2장 대사증후군 정의, 역학 및 진단기준
 
-#### 1. 대사증후군의 역학
+### 1. 대사증후군의 역학
 
 대사증후군의 정의 및 진단기준이 통일되지 않아서 그 유병률의 변화를 추정한다는 것은 어렵다. 또한 각 연구마다 다른 인구집단, 연구 디자인 및 다른 정의를 사용하였기 때문에 정확한 유병률을 알기 어렵지만 비만인구의 증가와 동반하여 그 유병률은 지속적으로 증가하는 추세에 있다. 이는 대사증후군과 연관성이 높은 당뇨병, 이상지질혈증, 고혈압, 관상동맥질환, 뇌졸중, 심부전, 만성 콩팥병증 및 일부 암 발생의 증가를 동반하여 대사증후군으로 인한 사회적 부담을 가중시킬 가능성이 높다. 임 등의 연구에 따르면, 국내 대사증후군의 유병률은 24.9% (1998년), 29.2% (2001년), 30.4% (2005년), 31.3% (2007년)로 지속적으로 증가되는 추세이며 동반된 심뇌혈관질환 및 대사질환, 사망률 증가로 국민 건강의 치명적 악화인자가 되고 있다.
 
-#### 2. 대사증후군의 임상적 의미
+### 2. 대사증후군의 임상적 의미
 
 대사증후군은 정확한 병리기전은 알려지지 않았으나 인슐린저항을 통하여, 혈당조절 장애, 혈압 상승, 중성지방 상승, 고밀도지질단백질 콜레스테롤 저하 및 복부비만이 발생하는 것으로 생각된다. 대사증후군은 이전에 ‘신드롬 X,’ ‘Deadly Quartet,’ 또는 ‘인슐린저항 증후군’ 등 여러 가지 용어로 명명되기도 하였다. 대사증후군은 복부비만, 인슐린저항 등으로 발생하는 질병이면서 당뇨병, 고혈압, 만성 콩팥병, 심뇌혈관질환 및 전체 사망률 증가의 원인이 되는 위험인자로 생각되며, 혈관내피세포 기능장애, 체내 염증 증가와 이소성 지방 축적을 일으켜 대사이상 및 심뇌혈관질환의 위험인자로 알려져 있다. 대사증후군 환자에서 심뇌혈관 질환으로 인한 전체 사망률은 대사증후군이 없는 사람보다 남성에서 1.44-2.26배, 여성에서 1.38-2.78배 높다. 또한 많은 연구에서 대사증후군이 각종 암 발생 및 사망률과 밀접한 관계가 있음을 보여주고 있다.
 
@@ -431,28 +427,28 @@
 
 Trevisan 등의 연구에 따르면, Syndrome X (고혈압, 공복혈당 장애, 고중성지질혈증 및 저-고밀도지질단백질 콜레스테롤혈증)가 있는 사람들의 총 사망률은 대사증후군 요소를 전혀 갖지 않는 사람보다 남자에서 1.95배, 여자에서 2.54배 높았다. 또한 Gupta 등의 연구에 따르면 대사증후군이 있는 고혈압 환자의 경우 대사증후군의 각 진단기준을 보정한 후에도 총 사망률이 1.35 (1.16-1.58)배 증가했다.
 
-#### 3. 대사증후군의 위험인자
+### 3. 대사증후군의 위험인자
 
 대사증후군의 위험인자는 복부비만, 인슐린저항, 신체활동 부족, 과도한 열량섭취 등이다. 그 중에서도 인슐린저항은 대사증후군에 가장 중요한 역할을 한다고 알려져 있다. 인슐린저항은 당뇨병의 위험인자이며, 다양한 대사경로와 연관되어 고인슐린혈증이 발생하면 기타 다른 질환의 발생 위험성을 높인다. 지속적인 과도한 열량섭취와 신체활동 부족은 이소성 지방조직의 축적을 증가시키고 인슐린 민감도를 악화시킨다. 복부비만의 경우 인슐린저항과 밀접한 관련성을 보이며, 지방조직에서 비-에스테르 지방산 배출이 많아 간이나 근육조직에 이소성 지방을 축적시켜 인슐린저항 및 이상지질혈증 등을 악화시킨다. 지방조직은 염증 및 혈전생성을 촉진시키는 시토카인의 분비를 증가시키고 아디포넥틴의 분비를 감소시킨다. 특히 염증 시토카인의 증가는 대사증후군과 심뇌혈관질환의 발생과 진행을 악화시킨다.
 
 대사증후군 위험요인에 접근할 때 주의할 것은 이러한 위험이 어느 순간 시작하는 것이 아니라 위험요인을 많이 가지고 있을수록, 위험의 크기가 클수록 심뇌혈관질환이 연속선상에서 점차로 증가하는 양상을 보이고 있기 때문에 이를 관리해야 하는 하나의 시점이 있을 수 없다는 점이다. 눈에 띄는 심뇌혈관질환의 위험을 가지고 있지 않은 젊은 사람의 경우 심뇌혈관질환의 위험을 약 간 증가시키는 여러 가지 요인을 가지고 있더라도 이를 간과하기 쉽다. 남자는 40세 이후, 여자는 폐경이거나 50세 이후에서 대사증후군을 비롯한 심뇌혈관질환의 위험이 평가되어야 한다. 이보다 젊은 경우에도 환자가 심뇌혈관질환이나 대사증후군의 예방에 대해 먼저 질문하는 경우, 조기 심뇌혈관질환의 가족력이나 의심할만한 증상이 있는 경우, 대사증후군의 요소나 흡연, 과체중 등 심뇌혈관질환의 위험요인을 한 가지 이상 가지고 있는 경우 당장 약물치료가 필요하지 않더라도 대사증후군의 다른 요소나 심뇌혈관질환의 다른 위험요인을 가지고 있지 않은지 평가해야 한다.
 
-#### 4. 대사증후군의 정의 및 진단기준
+### 4. 대사증후군의 정의 및 진단기준
 
 대사증후군의 개념은 1998년에 Reaven에 의해 처음으로 묘사된 이후 포도당불내성, 인슐린저항, 복부비만, 이상지질혈증 및 고혈압의 복합체로 심뇌혈관질환의 위험인자로 생각되고 있다. World Health Organization (WHO)는 대사증후군의 진단기준을 처음으로 정의하였으며, 이후 European Group for the Study of Insulin Resistance (EGIR), National Cholesterol Education Program ’s Adult Treatment Panel III (NCEP ATP III), American Association of Clinical Endocrinologists (AACE) 및 International Diabetes Federation (IDF) 등이 차례로 진단기준을 제시하였다(Table 2-1). 이와 같이 대사증후군의 정의는 각 유관학회마다 다양한 진단기준을 제시하고 있으나, 진단요소 및 그 기준점은 겹치는 부분이 많다. 다음 표는 대사증후군의 다양한 진단기준을 보여준다.
 
-WHO, EGIR 및 AACE 진단기준은 인슐린저항 또는 경구포도당내성검사를 측정할 필요성이 있어 학술연구에 많은 도움이 될 수 있으나 실제 환자진료 현장에서는 적합하지 않다는 단점이 있다. 임상진료현장에서 인슐린저항을 측정하지 않아도 되는 NCEP ATP III 및 IDF 정의가 가장 많이 사용되었고, 2009년 IDF, American Heart Association/National Heart, Lung, and Blood Institute (AHA/NHLBI) 및 International Association for the Study of Obesity (IASO) 단체 등은 인슐린저항 측정이나 경구포도당내성검사 등을 진단기준에서 배제한 대사증후군의 정의를 합의하였다. 합의된 대사증후군 진단기준에서도 복부비만은 민족별, 국가별로
+WHO, EGIR 및 AACE 진단기준은 인슐린저항 또는 경구포도당내성검사를 측정할 필요성이 있어 학술연구에 많은 도움이 될 수 있으나 실제 환자진료 현장에서는 적합하지 않다는 단점이 있다. 임상진료현장에서 인슐린저항을 측정하지 않아도 되는 NCEP ATP III 및 IDF 정의가 가장 많이 사용되었고, 2009년 IDF, American Heart Association/National Heart, Lung, and Blood Institute (AHA/NHLBI) 및 International Association for the Study of Obesity (IASO) 단체 등은 인슐린저항 측정이나 경구포도당내성검사 등을 진단기준에서 배제한 대사증후군의 정의를 합의하였다. 합의된 대사증후군 진단기준에서도 복부비만은 민족별, 국가별로 다른 절단점을 제시하였다. IDF, NHLBI/AHA 및 IASO 등에 의해 합의된 아시아인의 복부비만의 기준은 남성 ≥ 90 cm 및 여성 ≥ 80 cm이다. 그러나 대한비만학회는 1998년 국민건강영양조사 자료를 이용한 연구를 인용해 대한민국 성인에서 복부비만을 위한 허리둘레 절단점을 남성 ≥ 90 cm 및 여성 ≥ 85 cm으로 정의하였다. 본 임상진료지침에서도 운영위원간의 합의를 통해 대한민국 국민에서 대사증후군의 복부비만에 대한 허리둘레 절단점을 남성 ≥ 90 cm 및 여성 ≥ 85 cm 으로 정의하고자 한다(Table 2-2). 또한 대사증후군의 5가지 진단기준은 동반되어 나타나는 경우가 많기 때문에 진료실에 내원한 환자에게 대사증후군 요소 중 하나 이상 의 이상소견이 발견되면 적극적인 생활습관 평가, 신체검사 및 실험실검사를 통하여 대사증후군의 위험요인을 발견하고 치료하여 심뇌혈관질환을 예방해야 한다.
 
 ---
 
-**Table 2-1. 각 유관학회별 대사증후군 진단기준**
+#### Table 2-1. 각 유관학회별 대사증후군 진단기준
 
 |구성요소|NCEP ATP III|IDF|EGIR|WHO|AACE|
 |---|---|---|---|---|---|
 |필수요소|   |허리둘레 남자 ≥ 90 cm 여자 ≥ 85 cm|인슐린저항 또는 공복 고인슐린혈증 ≥ 25th percent; 공복 혈당 ≥ 110 mm/dL; 식후 2시간 혈당 ≥ 140 mg/dL|인슐린저항 ≥ 25th percent; 공복 혈당 ≥ 110 mm/dL; 식후 2시간 혈당 ≥ 140 mg/dL|인슐린저항 고위험군 또는 BMI ≥ 25 kg/m² 또는 복부비만 (남자 ≥ 90 cm, 여자 ≥ 85 cm)|
 |검사이상 개수|다음 중 3개 이상|다음 중 2개 이상|다음 중 2개 이상|다음 중 2개 이상|다음 중 2개 이상| | | | |
 |복부비만|허리둘레 남자 ≥ 102 cm <br> 여자 ≥ 88 cm|   |허리둘레 남자 ≥ 94 cm <br> 여자 ≥ 80 cm|허리둘레/엉덩이둘레 비 <br>남성 >0.9 <br>여성 >0.85 <br>또는 BMI ≥ 30 kg/m²|
-|혈압|수축기 ≥ 130 mm Hg 또는 이완기 ≥ 85 mm Hg 또는 고혈압 치료를 위해 약물투여 중인 상태|수축기 ≥ 130 mm Hg 또는 이완기 ≥ 85 mm Hg 또는 고혈압 치료를 위해 약물투여 중인 상태|수축기 ≥ 140 mm Hg 또는 이완기 ≥ 90 mm Hg 또는 고혈압 치료를 위해 약물투여 중인 상태|수축기 ≥ 140 mm Hg 또는 이완기 ≥ 90 mm Hg 또는 고혈압 치료를 위해 약물투여 중인 상태|수축기 ≥ 130 mm Hg <br>또는 이완기 ≥ 85 mm Hg|
+|혈압|수축기 ≥ 130 mm Hg 또는 이완기 ≥ 85 mm Hg 또는 고혈압 치료를 위해 약물투여 중인 상태|수축기 ≥ 130 mm Hg 또는 이완기 ≥ 85 mm Hg 또는 고혈압 치료를 위해 약물투여 중인 상태|수축기 ≥ 140 mm Hg 또는 이완기 ≥ 90 mm Hg 또는 고혈압 치료를 위해 약물투여 중인 상태|수축기 ≥ 140 mm Hg 또는 이완기 ≥ 90 mm Hg|수축기 ≥ 130 mm Hg <br>또는 이완기 ≥ 85 mm Hg|
 |혈당|≥ 100 mg/dL 또는 혈당조절을 위해 약물투여 중인 상태|≥ 100 mg/dL 또는 진단된 당뇨병|110 - 125 mg/dL|    |≥ 110 mg/dL 또는 식후 2시간 혈당 ≥ 140 mg/dL|
 |고밀도지질<br>단백질<br>콜레스테롤|남성 <40 mg/dL, 여성 <50 mg/dL, 또는 HDLC 상승을 위해 약물투여 중인 상태|남성 <40 mg/dL, 여성 <50 mg/dL, 또는 HDLC 상승을 위해 약물투여 중인 상태|<40 mg/dL|남성 <35 mg/dL<br>여성 <40 mg/dL|남성 <40 mg/dL<br>여성 <50 mg/dL| 
 |중성지방|≥ 150 mg/dL, 또는 중성지방은 낮추기 위해 약물투여 중인 상태|≥ 150 mg/dL, 또는 중성지방은 낮추기 위해 약물투여 중인 상태|≥ 180 mg/dL, 또는 이상지질혈증 치료를 위해 약물투여 중인 상태|≥ 150 mg/dL|≥ 150 mg/dL|
@@ -462,7 +458,7 @@ NCEP, National Cholesterol Education Program; IDF, International Diabetes Federa
 
 ---
 
-**Table 2-2. 대사증후군 임상진단 기준**
+#### Table 2-2. 대사증후군 임상진단 기준
      
 |구성요소|범주별 절단점|
 |---|---|
@@ -474,15 +470,13 @@ NCEP, National Cholesterol Education Program; IDF, International Diabetes Federa
 
 *복부비만의 절단점은 대한비만학회 기준을 따름. 
 
-다른 절단점을 제시하였다. IDF, NHLBI/AHA 및 IASO 등에 의해 합의된 아시아인의 복부비만의 기준은 남성 ≥ 90 cm 및 여성 ≥ 80 cm이다. 그러나 대한비만학회는 1998년 국민건강영양조사 자료를 이용한 연구를 인용해 대한민국 성인에서 복부비만을 위한 허리둘레 절단점을 남성 ≥ 90 cm 및 여성 ≥ 85 cm으로 정의하였다. 본 임상진료지침에서도 운영위원간의 합의를 통해 대한민국 국민에서 대사증후군의 복부비만에 대한 허리둘레 절단점을 남성 ≥ 90 cm 및 여성 ≥ 85 cm 으로 정의하고자 한다(Table 2-2). 또한 대사증후군의 5가지 진단기준은 동반되어 나타나는 경우가 많기 때문에 진료실에 내원한 환자에게 대사증후군 요소 중 하나 이상 의 이상소견이 발견되면 적극적인 생활습관 평가, 신체검사 및 실험실검사를 통하여 대사증후군의 위험요인을 발견하고 치료하여 심뇌혈관질환을 예방해야 한다.
-
 ---
 
-### 제3장 대사증후군 예방 및 치료
+## 제3장 대사증후군 예방 및 치료
 
 대사증후군 예방과 치료의 목적은 심뇌혈관질환 발생을 줄이고 이로 인한 사망을 감소시키기 위함이다. 약물치료가 필요한 고혈압, 이상지질혈증을 비롯한 심뇌혈관질환을 가지고 있는 환자의 경우에서조차 치료목표에 도달하는 경우는 50% 이하이며, 증상이 없는 건강인에서 심뇌혈관질환의 발생을 예방하기 위해 생활습관을 수정하는 것은 이보다 어렵다. 따라서 환자를 지속적으로 관리할 수 있는 일차의료인의 역할이 중요하며, 이를 위해 의료인은 의학면담기술, 환자교육기술, 다양한 위험요인과 애매한 문제를 다루는 진료기술을 습득해야 한다.
 
-#### 1. 생활습관 교정
+### 1. 생활습관 교정
 
 대사증후군의 효과적인 예방과 치료를 위해서는 어린 시절부터 사회적 환경의 상호작용과 유전요인을 통해 오랜 시간 동안 형성되어온 생활습관에 대한 평가가 우선적으로 이뤄져야 할 것이다. 지적된 문제행동의 변화를 이끌어 내기 위해서는 의사-환자 관계를 바탕으로 환자의 관심사, 건강신념, 가치관을 파악하여, 의사의 생각과 다르더라도 환자의 선택과 결정이 존중되어야 한다.
 
@@ -501,8 +495,6 @@ NCEP, National Cholesterol Education Program; IDF, International Diabetes Federa
 |건강인에서 대사증후군의 예방을 위해 직· 간접 흡연을 피하도록 권고한다.|A|I|
 |대사증후군 환자에서 심뇌혈관질환의 예방을 위해 직· 간접 흡연을 피하도록 권고한다.|A|I|
 
----
-
 2010년 국민건강영양조사에 따르면 한국 성인 남성의 48.3%, 성인 여성의 6.3%가 흡연을 하고 있다. 흡연은 대사증후군 발생의 위험도를 증가시키는 것으로 알려져 있다. 흡연과 대사증후군의 발생에 대해 13개의 전향코호트연구들을 분석한 메타연구에서 상대위험도 1.26 (1.10-1.44)으로 흡연을 한 경우 대사증후군의 발생 위험이 높아짐을 알 수 있었다. 흡연으로 인한 대사증후군의 위험도는 흡연량과 관련되어 있으며, 이는 용량-반응 관계를 보인다. 이전에 흡연을 했던 사람과, 현재 흡연 중인 사람 모두 대사증후군 발생의 위험도가 증가한다. 간접 흡연 역시 대사증후군의 위험도를 높이는 것으로 알려져 있다. 흡연이 대사증후군의 위험도를 높인다는 무작위대조시험은 없으나, 다수의 전향코호트 및 이를 토대로 한 메타분석이 있으므로 건강인에서 대사증후군의 예방을 위해 직·간접 흡연을 피하도록 권고한다.
 
 흡연은 대사증후군의 요소 중 복부비만, 고중성지질혈증, 저-고밀도지질단백질 콜레스테롤혈증과 관련되어 있으며, 인슐린 민감도의 감소 및 인슐린저항의 증가와 관련되어 있다. 이것은 흡연이 동맥경화의 발생 및 혈전의 생성을 촉진시키기 때문인데, 그 동안의 다수의 관찰 코호트연구, 실험 코호트연구, 동물 연구, 인체 연구는 이 기전을 흡연의 혈관내피 기능, 산화 과정, 혈소판 기능, 피브린용해, 염증반응, 지질 변화 및 혈관운동 기능에 대한 효과에 기인한다고 밝혔다.
@@ -520,7 +512,7 @@ NCEP, National Cholesterol Education Program; IDF, International Diabetes Federa
 
 ---
 
-**Table 3-1. 알코올 종류에 따른 한잔의 알코올 함량**
+#### Table 3-1. 알코올 종류에 따른 한잔의 알코올 함량
 
 |알코올 종류|알코올 도수 (%)|한잔 부피 (mL)|한잔의 알코올 함량 (g)|
 |---|---|---|---|
@@ -626,7 +618,7 @@ NCEP, National Cholesterol Education Program; IDF, International Diabetes Federa
 
 *중등도 이상(걷기 포함) 신체활동 실천율: 최근 1주일 동안 격렬한 신체활동을 1회 10분 이상, 1일 총 20분 이상, 주 3일 이상 실천 또는 중등도 신체활동을 1회 10분 이상, 1일 총 30분 이상, 주 5일이상 실천 또는 걷기를 1회 10분 이상, 1일 총 30분 이상 주 5일 이상 실천한 분율
 
----
+#### Figure 3-1. 중등도 이상(걷기 포함) 신체활동 실천율 추이.
 
 | 연도  | 남자 (%) | 여자 (%) |
 |---|---|---|
@@ -635,8 +627,6 @@ NCEP, National Cholesterol Education Program; IDF, International Diabetes Federa
 | 2008  | 60.1     | 54.0     |
 | 2009  | 58.8     | 53.9     |
 | 2010  | 53.5     | 48.3     |
-
-**Figure 3-1. 중등도 이상(걷기 포함) 신체활동 실천율 추이.**
 
 1) 운동의 효과
 
@@ -670,7 +660,9 @@ NCEP, National Cholesterol Education Program; IDF, International Diabetes Federa
 
 고강도 신체활동은 최대산소소비량의 60-85%, 10점 만점 Borg scale의 7-8점에 상응하는 운동강도로 정의되며, 젊은이들에서는 7.2-10.1 METs, 중년층에서는 6.0-8.4 METs, 노년층에서는 4.8-6.7 METs에 해당된다. 위와 같이 연령에 따른 운동강도의 구분도 가능하지만, 일반적으로 저강도( < 3.0 METs), 중등도 강도(3.0-6.0 METs) 및 고강도( > 6.0 METs)로 쉽게 구분하기도 하며, 운동의 종류에 따른 운동강도의 구분과 METs는 다음과 같다 (Table 3-2).
 
-**Table 3-2. 운동강도로 구분되는 신체활동의 METs**
+미국 스포츠의학회의 권고안에 따르면, 건강을 유지하기 위하여 1주에 2-3일 정도의 저항성운동을 시행할 것을 권고하고 있다. 주요 근육을 사용하는 8-10 종류의 운동을, 한 종류의 운동에서 8-12회 반복할 수 있는 정도의 무게로, 연속적이지 않는 날에 주 2일 이상 시행하도록 권고한다. 중간에 쉬는 시간을 하루 이상 두어야 근육이 쉴 수 있고, 근력이 강화되는 시간을 줄 수 있기 때문이다. 단 근력강화를 위한 운동은 점진적으로 강도를 높여 시행되어야 한다. 체중이 실리는 맨손체조, 계단 오르기 등과 같은 운동도 저항성운동에 포함된다.
+
+#### Table 3-2. 운동강도로 구분되는 신체활동의 METs
 
 |저강도 < 3.0 METs|METs|중등도 강도 3.0-6.0 METs|METs|고강도 >6.0 METs|METs|
 |---|---|---|---|---|---|
@@ -691,13 +683,11 @@ NCEP, National Cholesterol Education Program; IDF, International Diabetes Federa
 | | |탁구|4.0|||
 | | |복식 테니스|5.0|||
 
-12주관적 운동강도: 얼마나 힘든지를 10점 단위 또는 20점 단위로 표시한 것으로, ‘편안하다’를 0점 ‘더 이상 못하겠다’를 최고점(10점 또는 20점)으로 표현하는 방법.
+¹²주관적 운동강도: 얼마나 힘든지를 10점 단위 또는 20점 단위로 표시한 것으로, ‘편안하다’를 0점 ‘더 이상 못하겠다’를 최고점(10점 또는 20점)으로 표현하는 방법.
 
 13Metabolic equivalent (MET): 가만히 아무것도 하지 않고 앉아 있을 때 소모되는 에너지 소비량.
 
 ---
-
-미국 스포츠의학회의 권고안에 따르면, 건강을 유지하기 위하여 1주에 2-3일 정도의 저항성운동을 시행할 것을 권고하고 있다. 주요 근육을 사용하는 8-10 종류의 운동을, 한 종류의 운동에서 8-12회 반복할 수 있는 정도의 무게로, 연속적이지 않는 날에 주 2일 이상 시행하도록 권고한다. 중간에 쉬는 시간을 하루 이상 두어야 근육이 쉴 수 있고, 근력이 강화되는 시간을 줄 수 있기 때문이다. 단 근력강화를 위한 운동은 점진적으로 강도를 높여 시행되어야 한다. 체중이 실리는 맨손체조, 계단 오르기 등과 같은 운동도 저항성운동에 포함된다.
 
 ### 4. 약물요법
 
@@ -719,19 +709,38 @@ Diabetes Prevention Program (DPP)에 참여한 사람을 대상으로 한 연구
 |---|---|---|
 |심뇌혈관질환 발생가능성이 낮은 대사증후군 환자에서는 심뇌혈관질환의 일차예방을 위한 아스피린 사용을 권고하지 않을 것을 고려한다.|B|III|
 
-대사증후군이 있는 사람들은 전형적으로 피브리노겐, 플라스미노겐활성화억제인자(plasminogen activator inhibitor)-1 및 다른 응고인자들이 상승되어 있는 경우가 많아 혈전생성 촉진현상을 예방할 필요가 있다. 장기적으로 혈전생성을 막고, 혈소판 응집을 막을 수 있는 가장 좋은 약물이 아스피린 또는 항-혈소판 제제들이다. 동맥경화성 질환을 진단받은 고위험군 환자에게 아스피린을 사용했을 경우 심뇌혈관질환의 발생 및 사망률을 약 1/3 정도 낮추었지만, 심뇌혈관질환이 없는 저위험군 환자에서는 오히려 뇌졸중의 발생을 더 증가시키는 부작용이 관찰되어 심뇌혈관질환의 일차예방에 도움이 되지 못했다. Hansson 등의 연구에 따르면 고혈압이 있는 사람에서 매일 75 mg 아스피린을 사용한 경우, 심근경색과 같은 주요 심혈관질환 발생을 낮추었으나, 뇌졸중 발생에는 도움이 되지 않았고 심지어 비-치명적 출혈의 위험성은 증가하였다. 6개의 무작위대조시험 연구에 대한 메타분석에서도 아스피린 사용이 주요 심뇌혈관질환 및 총 사망률을 감소시키지 못했다.168) 따라서 아스피린의 경우 이미 동맥경화성 심혈관질환이 동반된 경우라면 금기증이 아닌 경우에 권고될 수 있으나, 동맥경화성 심혈관질환이 동반되지 않은 대사증후군 환자 또는 당뇨병 환자에서는 심뇌혈관질환의 일차예방을 위해 일반적인 사용이 권고될만한 근거는 없다. 이와 같은 근거에 기초하여 심뇌혈관질환이 있는 대사증후군 환자에서 향후 심뇌혈관질환의 예방을 위해 아스피린 사용이 권고되나, 심뇌혈관질환 발생 가능성이 낮은 대사증후군 환자에서 심뇌혈관질환을 일차예방하기 위한 아스피린 사용을 권고하지 않을 것을 고려한다.
+대사증후군이 있는 사람들은 전형적으로 피브리노겐, 플라스미노겐활성화억제인자(plasminogen activator inhibitor)-1 및 다른 응고인자들이 상승되어 있는 경우가 많아 혈전생성 촉진현상을 예방할 필요가 있다. 장기적으로 혈전생성을 막고, 혈소판 응집을 막을 수 있는 가장 좋은 약물이 아스피린 또는 항-혈소판 제제들이다. 동맥경화성 질환을 진단받은 고위험군 환자에게 아스피린을 사용했을 경우 심뇌혈관질환의 발생 및 사망률을 약 1/3 정도 낮추었지만, 심뇌혈관질환이 없는 저위험군 환자에서는 오히려 뇌졸중의 발생을 더 증가시키는 부작용이 관찰되어 심뇌혈관질환의 일차예방에 도움이 되지 못했다. Hansson 등의 연구에 따르면 고혈압이 있는 사람에서 매일 75 mg 아스피린을 사용한 경우, 심근경색과 같은 주요 심혈관질환 발생을 낮추었으나, 뇌졸중 발생에는 도움이 되지 않았고 심지어 비-치명적 출혈의 위험성은 증가하였다. 6개의 무작위대조시험 연구에 대한 메타분석에서도 아스피린 사용이 주요 심뇌혈관질환 및 총 사망률을 감소시키지 못했다. 따라서 아스피린의 경우 이미 동맥경화성 심혈관질환이 동반된 경우라면 금기증이 아닌 경우에 권고될 수 있으나, 동맥경화성 심혈관질환이 동반되지 않은 대사증후군 환자 또는 당뇨병 환자에서는 심뇌혈관질환의 일차예방을 위해 일반적인 사용이 권고될만한 근거는 없다. 이와 같은 근거에 기초하여 심뇌혈관질환이 있는 대사증후군 환자에서 향후 심뇌혈관질환의 예방을 위해 아스피린 사용이 권고되나, 심뇌혈관질환 발생 가능성이 낮은 대사증후군 환자에서 심뇌혈관질환을 일차예방하기 위한 아스피린 사용을 권고하지 않을 것을 고려한다.
 
 ---
 
-### 제4장 결론
+## 제4장 결론
 
 대사증후군은 하나의 병리기전을 통해 발생하는 질환이라기보다는 각각의 진단요소의 합으로 표현되는 질환이다. 따라서 대사증후군은 심뇌혈관질환, 대사질환 및 일부 암 발생에 선행되어 나타나는 대리표지자 같은 의미가 있다. 그러므로 본 임상진료지침은 대사증후군 자체를 치료하는 데 의의를 두기보다는 생활습관 교정을 통하여 심뇌혈관질환을 예방하고 만성질환 이환 및 총사망률을 감소시키는 데 의의를 두었다. 또한 약물치료가 필요한 비만, 고혈압, 당뇨병 및 이상지질혈증의 경우에는 본 진료지침에서 소개된 생활습관 교정방법과 별도로 각 유관학회에서 개발된 진료지침을 따라 치료할 것을 권한다. 대사증후군의 예방·치료 및 심뇌혈관질환 예방을 위하여 가장 중요한 것은 금연, 올바른 식습관 및 규칙적인 운동 등과 같은 좋은 생활습관으로 건강을 유지하고 증진하는 것이다.
 
+ 1. 임상진료지침의 인준  
+본 ‘대한민국 성인에서 대사증후군의 예방 및 치료’ 임상진료지침은 ‘2013년 대한가정의학회 춘계학술대회·연수강좌’를 통하여 
+수용개작과정 및 진료지침 내용이 발표되었으며, 본 지침의 근거 및 논리적 타당성, 임상적 활용가능성, 국내의료 상황의 적용가능
+성 등에 대해 논의하였으며, 대한가정의학회의 인준을 받았다.
+
+ 2. 실행 및 확산  
+본 임상진료지침은 대한가정의학회지 및 기타 대사증후군 관련 전문학회지에 발표할 예정이며, 대한가정의학회 홈페이지
+(http://www.kafm.or.kr) 및 임상진료지침 정보센터(http://www.guideline.or.kr)에 공시될 예정이다. 또한 개발된 임상진료지침을 관련 
+학회의 학술대회에서 구두발표하고 책자, 소책자, 팜플렛 등의 형태로 제작하여 관련학회 회원들에게 배포할 예정이다.
+
+ 3. 갱신계획  
+본 임상진료지침은 매 5년마다 대한가정의학회 임상진료지침위원회를 통하여 갱신의 필요성을 파악한 후, 대사증후군의 예방 
+및 치료에 대한 갱신의 필요성이 있다고 판단되면 대사증후군 임상진료지침위원회를 재구성하여 갱신할 계획이다.
+
+ 4. 자금출처 목록  
+본 임상진료지침은 근거창출임상연구국가사업단의 2011년도 임상진료지침개발사업의 신규과제로 선정되어, 대한가정의학회 
+임상진료지침 위원회에서 개발주체로 연구를 수행하였고, 연구비 및 운영비는 근거창출임상연구국가사업단에서 지원하였다. 이
+외에 본 임상진료지침 개발에 영향을 미칠 수 있는 상업적 기관, 단체, 및 기업에서 어떠한 후원 및 현물도 제공받지 않았다.
+
 ---
 
-### 제5장 부록
+## 제5장 부록
 
-#### 1. 권고사항 요약표
+### 1. 권고사항 요약표
 
 |권고안|근거수준|권고강도|
 |---|---|---|
@@ -752,31 +761,36 @@ Diabetes Prevention Program (DPP)에 참여한 사람을 대상으로 한 연구
 |포도당불내성이 있는 대사증후군 환자에서 생활습관 교정과 함께 메트포르민을 사용하도록 권고할 것을 고려한다.|B|II|
 |심뇌혈관질환 발생가능성이 낮은 대사증후군 환자에서는 심뇌혈관질환의 일차예방을 위한 아스피린 사용을 권고하지 않을 것을 고려한다.|B|III|
 
-#### 2. 진료흐름도
+### 2. 진료흐름도
 
-대사증후군의 진단 기준 평가
-1. 복부 비만
-2. 상승된 혈압
-3. 상승된 혈당
-4. 상승된 중성지방
-5. 저하된 고밀도지단백질 콜레스테롤
+1. 진단 기준 평가
+
+    - 복부 비만
+    - 상승된 혈압
+    - 상승된 혈당
+    - 상승된 중성지방
+    - 저하된 고밀도지질단백질 콜레스테롤
+
+2. 진단 기준 충족 개수에 따른 분기
 
 - 0개 만족
-  1. 생활습관의 교정이 필요한가?
-    1) 문제행동 평가 (흡연, 음주, 가당음료)
-    2) 식사양식 평가
-    3)  신체활동 평가
-  1.1. 예:  본 진료지침에 따라 생활습관의 교정 권고
-  1.2. 아니오: 정기적 평가
+
+    - 생활습관의 교정이 필요한가?
+        - 평가 기준:
+            - 문제행동 평가 (흡연, 음주, 가당음료)
+            - 식사양식 평가
+            - 신체활동 평가
+
+        - 결과:
+            - 예: 본 진료지침에 따라 생활습관 교정 권고
+            - 아니오: 정기적 평가
 
 - 1개 이상 만족
-  1. 생활습관의 교정이 필요한가?
-  1.1. 예:  본 진료지침에 따라 생활습관의 교정 권고
-  1.2. 아니오: 정기적 평가
-  2. 심뇌혈관질환 위험성 평가
-  3. 약물치료가 필요한가?
-  3.1. 예: 유관학회 진료지침에 따른 약물 치료 권고
-  3.2. 아니오: 정기적 평가
+
+    - 심뇌혈관질환 위험성 평가
+    - 약물치료가 필요한가?
+        - 예: 유관학회 진료지침에 따른 약물치료 권고
+        - 아니오: 정기적 평가
 
 ---
 
@@ -869,104 +883,105 @@ Diabetes Prevention Program (DPP)에 참여한 사람을 대상으로 한 연구
 |후향연구|Retrospective study|
 
 ---
-### 대사증후군 임상진료지침 임상질문 인용인덱스
 
-#### Key question 1. 인지행동 치료가 건강한 생활습관을 갖도록 하는 데 도움이 되는가?
+## 대사증후군 임상진료지침 임상질문 인용인덱스
+
+### Key question 1. 인지행동 치료가 건강한 생활습관을 갖도록 하는 데 도움이 되는가?
 
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |없음| Cognitive-behavioural methods are effective in supporting persons in adopting a healthy lifestyle. Established cognitive behavioural strategies (e.g., motivational interviewing) to facilitate lifestyle change are recommended. Lifestyle is usually based on long-standing behavioural patterns. These patterns are framed during childhood and adolescence by an interaction of environmental and genetic factors, and are maintained or even promoted by the individual’s social environment as an adult. In addition, these factors impede the ability to adopt a healthy lifestyle, as does complex or confusing advice from medical caregivers. A friendly and positive interaction is a powerful tool to enhance an individual’s ability to cope with illness and adhere to recommended lifestyle changes and medication use. Social support provided by caregivers may be of importance in helping individuals maintain healthy habits and follow medical advice. Decision-making should be shared between caregiver and patient (also including the individual’s spouse and family).|Cognitive behaviour therapy should be considered for increasing physical function and improving mood in patients with coronary heart disease (CHD).|없음|
 
-#### Key question 2. 금연이 대사증후군 예방 및 치료에 효과적인가?
+### Key question 2. 금연이 대사증후군 예방 및 치료에 효과적인가?
 
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
  |Furthermore, in all patients, cessation of cigarette smoking is mandatory to reduce cardiovascular disease (CVD) risk. Complete cessation of smoking and elimination of exposure to tobacco smoke in the environment are important goals of lifestyle intervention to reduce the risk of CVD and stroke. We support the recommendations of the American Heart Association with respect to smoking cessation.|Changing smoking behaviour is a cornerstone of improved CVD health. Public health measures including smoking bans are crucial for the public’s perception of smoking as an important health hazard. Smoking is associated with increased risk of all types of CVD. It is clear that smoking enhances both the development of atherosclerosis and the occurrence of superimposed thrombotic phenomena. Mechanisms have been elucidated through observational cohort studies, experimental observations, and laboratory studies in humans and animals and point towards the effect of smoking on endothelial function oxidative processes platelet function, fibrinolysis, inflammation, and modification of lipids and vasomotor function. The physician’s firm and explicit advice that the person should stop smoking completely is important in starting the smoking-cessation process and increases the odds of success (odds ratio [OR], 1.66; 95% confidence interval [CI], 1.42-1.94). Smokers should be advised about expected weight gain of on average 5 kg and that the health benefits of tobacco cessation far outweigh the risks from weight gain.| All people who smoke should be advised to stop and offered support to help facilitate this in order to minimise cardiovascular and general health risks. Exposure to passive smoking increases cardiovascular risk and should be minimised. Nicotine replacement therapies or bupropion should be used as part of a smoking cessation programme to augment professional advice and increase long term abstinence rates. Smokers with CHD and comorbid clinical depression should have their depression treated both for alleviation of depressive symptoms and to increase the likelihood.|없음|
 
-#### Key question 3. 적절한 음주가 대사증후군의 예방 및 치료에 효과적인가?
+### Key question 3. 적절한 음주가 대사증후군의 예방 및 치료에 효과적인가?
 
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 
 |없음|Consumption of alcoholic beverages should be limited to two glasses per day (20 g/d of alcohol) for men and one glass per day (10 g/d of alcohol) for women. The recommendation is that drinkers should limit their alcohol intake to a maximum of one glass/d for women (10 g of alcohol) or two glasses/d for men (20 g of alcohol) to obtain the lowest level of chronic disease risk.| Patients with no evidence of CHD may be advised that light to moderate alcohol consumption may be protective against the development of CHD. Patients with established CHD may be advised that light to moderate alcohol consumption may be protective against further coronary events. Brief multi-contact interventions should be used to encourage patients to reduce their levels of drinking if their current intake is hazardous to their health.|없음|
 
-#### Key question 4. 가당 음료의 섭취를 줄이는 것이 대사증후군의 예방에 효과적인가?
+### Key question 4. 가당 음료의 섭취를 줄이는 것이 대사증후군의 예방에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |없음|The regular consumption of soft drinks has been associated with overweight and type 2 diabetes. Similarly, regular consumption of sugar-sweetened beverages (i.e., two servings per day compared with one serving per month) was associated with a 35% higher risk of CHD in women, even after other unhealthy lifestyle and dietary factors were accounted for, whereas artificially sweetened beverages were not associated with CHD.|없음|없음|
 
-#### Key question 5. 어떠한 형태의 지방과 콜레스테롤 식사가 대사증후군의 예방 및 치료에 효과적인가?
+### Key question 5. 어떠한 형태의 지방과 콜레스테롤 식사가 대사증후군의 예방 및 치료에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |We recommend that all individuals at metabolic risk follow a diet that is low in total and saturated fat, is low in trans fatty acids, and includes adequate fiber. We suggest that saturated fat be less than 7% of total calories and dietary cholesterol less than 200 mg/d. We recommend that trans fat in the diet should be avoided as much as possible. Saturated fatty acids to account for <10% of total energy intake, through replacement by polyunsaturated fatty acids.|Trans-unsaturated fatty acids: as little as possible, preferably no intake from processed food, and <1% of total energy intake from natural origin. In 1965, Keys et al. described how replacing saturated fat in the diet by unsaturated fatty acids lowered serum total cholesterol levels. Given the effect on serum cholesterol levels, an impact on CVD occurrence is plausible. Therefore, lowering saturated fatty acid intake to a maximum of 10% of energy by replacing it with polyunsaturated fatty acids remains important in dietary prevention of CVD. It is recommended to derive <1% of total energy intake from trans fatty acids, the less the better. The recommendation, therefore, is to eat fish at least twice a week, of which once oily fish.|
 A dietary pattern low in total fat, saturated fatty acids, and dietary cholesterol, and rich in fruits, vegetables, and low-fat dairy products can produce blood pressure reductions exceeding 11/5 mm Hg in people at higher cardiovascular risk. Weight loss, the restriction of dietary sodium, and regular intake of oily fish may enhance these effects. Diets low in total and saturated fats should be recommended to all for the reduction of cardiovascular risk.|없음|
 
-#### Key question 6. 저지방 식사보다 저탄수화물 식사가 대사증후군 예방 및 치료에 효과적인가?
+### Key question 6. 저지방 식사보다 저탄수화물 식사가 대사증후군 예방 및 치료에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |There is much controversy regarding the proportion of carbohydrates in the diet. We were unable to reach consensus on the optimal ratio of carbohydrates to fats in the diet. Avoiding foods with high glycemic index may help lower metabolic risk.|없음|없음|없음|
 
-#### Key question 7. 저나트륨 식사가 대사증후군의 예방 및 치료에 효과적인가?
+### Key question 7. 저나트륨 식사가 대사증후군의 예방 및 치료에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |Dietary sodium restriction is an important component of lifestyle therapies to control blood pressure, and we support the recommendations of JNC7 (seventh report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure) with respect to this.|In most western countries salt intake is high (9-10 g/d), whereas the recommended maximum intake is 5 g/d.|A dietary pattern low in total fat, saturated fatty acids, and dietary cholesterol, and rich in fruits, vegetables, and low-fat dairy products can produce blood pressure reductions exceeding 11/5 mm Hg in people at higher cardiovascular risk. Weight loss, the restriction of dietary sodium, and regular intake of oily fish may enhance these effects. People with hypertension should be advised to reduce their salt intake as much as possible to lower blood pressure.|없음|
 
-#### Key question 8. 칼륨 섭취가 많으면 대사증후군의 예방 및 치료에 효과적인가?
+### Key question 8. 칼륨 섭취가 많으면 대사증후군의 예방 및 치료에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |없음|Potassium is another mineral that affects blood pressure (BP). The main sources of potassium are fruits and vegetables. A higher potassium intake has been shown to reduce BP.|없음|없음|
 
-#### Key question 9. 비타민 A, B, E 섭취가 대사증후군의 예방 및 치료에 효과적인가?
+### Key question 9. 비타민 A, B, E 섭취가 대사증후군의 예방 및 치료에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |없음|Many case-control and prospective observational studies have observed inverse associations between levels of vitamin Aand E and risk of CVDs. This protective effect was attributed to their antioxidant properties. However, intervention trials designed to confirm the causality of these relationships have failed to confirm the results from observational studies. The B-vitamins B6, B12, and folic acid have been studied for their potential to lower homocysteine levels, which has been postulated as a risk factor for CVDs. All trials (SEARCH [Study of the Effectiveness of Additional Reductions in Cholesterol and Homocysteine], VITATOPS [VITAmins TO Prevent Stroke], and SU.FOL.OM3 [Supplementation with Folate, vitamin B6 and B12 and/or OMega-3 fatty acids]) concluded that supplementation with folic acid and vitamin B6 and/or B12 offers no protection against the development of CVD. Some epidemiological studies have shown associations between vitamin D deficiency and CVD. Conclusive evidence showing that vitamin D supplementation improves cardiovascular prognosis is however lacking, but trials are underway.|Antioxidant vitamin supplementation is not recommended for the prevention or treatment of CHD.|없음|
 
-#### Key question 10. 식품섬유(식이섬유)의 섭취가 대사증후군의 예방 및 치료에 효과적인가?
+### Key question 10. 식품섬유(식이섬유)의 섭취가 대사증후군의 예방 및 치료에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |We recommend that individuals at metabolic risk increase the proportion of fiber, unprocessed grains, and unsaturated fat in their diet.|The American Institute of Medicine recommends an intake of 3.4 g/MJ, equivalent to an intake of 30-45 g/d for adults.|This intake is assumed to be the optimal preventive level.|없음|없음|
 
-#### Key question 11. 채소와 과일의 섭취가 대사증후군의 예방 및 치료에 효과적인가?
+### Key question 11. 채소와 과일의 섭취가 대사증후군의 예방 및 치료에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |없음|The recommendation is to eat at least 200 g of fruit (2-3 servings) and 200 g of vegetables (2-3 servings) per day.|A dietary pattern low in total fat, saturated fatty acids, and dietary cholesterol, and rich in fruits, vegetables, and low-fat dairy products can produce blood pressure reductions exceeding 11/5 mm Hg in people at higher cardiovascular risk.|Weight loss, the restriction of dietary sodium, and regular intake of oily fish may enhance these effects. Increased fruit and vegetable consumption is recommended to reduce cardiovascular risk for the entire population.|
 
-#### Key question 12. 견과류 섭취가 대사증후군의 예방 및 치료에 효과적인가?
+### Key question 12. 견과류 섭취가 대사증후군의 예방 및 치료에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |없음|없음|There is limited evidence from two randomised controlled trials that consuming certain nuts may improve lipid profiles, reducing serum cholesterol by up to 0.4 mmol/L. The trials were small with short term follow up only, and involved consuming large amounts of unsalted nuts, which may be unrealistic for the general population in Scotland - 20% of calorie intake was derived from nuts (averaging about 75 g/d). More evidence is needed before recommendations can be made.|없음|
 
-#### Key question 13. 유제품 섭취가 대사증후군의 예방 및 치료에 효과적인가?
+### Key question 13. 유제품 섭취가 대사증후군의 예방 및 치료에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |없음|Low-fat dairy products are recommended in all patients with hypertension and in individuals with high normal BP.|없음|없음|
 
-#### Key question 14. 지중해식 식사양식이 대사증후군 예방 및 치료에 효과적인가?
+### Key question 14. 지중해식 식사양식이 대사증후군 예방 및 치료에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |없음|A number of studies have demonstrated the protective effect of this diet, and recently a meta-analysis has been performed.Adherence to the Mediterranean diet was operationalized by a scoring system (Mediterranean diet score), in which one point is obtained for each component of the diet, where the intake is above the median intake level for the study population (fruits, vegetables, legumes, cereals, fish, moderate consumption of red wine) or below the median (red and processed meats, dairy products). Depending on the number of food items for which information was obtained, the score could range from 0 to 7-9. The meta-analysis showed that greater adherence to the Mediterranean diet, by a 2-point higher score, was associated with a 10% reduction in cardiovascular incidence or mortality (pooled relative risk, 0.90; 95% CI, 0.87-0.93) and also with an 8% reduction in all-cause mortality (pooled RR, 0.92; 95% CI, 0.90-0.94).|없음|없음|
 
-#### Key question 15. 유산소운동이 대사증후군의 예방 및 치료에 효과적인가?
+### Key question 15. 유산소운동이 대사증후군의 예방 및 치료에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |We recommend that patients found to be at higher metabolic risk on the basis of multiple metabolic syndrome components be started on a clinical program of weight reduction (or weight maintenance if not overweight or obese) through an appropriate balance of physical activity, caloric intake, and formal behavior modification programs to achieve a lowering of body weight/waist circumference below the targets indicated. We recommend patients at metabolic risk undergo a program of regular moderate-intensity physical activity. This activity would be for at least 30 minutes, but preferably 45-60 minutes, at least 5 d/wk. It could include brisk walking or more strenuous activity. It can be supplemented by an increase in physical exercise as part of daily lifestyle activities. Maintain physical activity at least 150 min/wk with moderate exercise, such as walking or biking.|Participation in regular physical activity and/or aerobic exercise training is associated with a decrease in cardiovascular mortality.|Endurance exercise training had a favourable influence overall on the blood lipid profile relative to future risk of CHD. The most commonly observed lipid change in all weight categories in relation to endurance training was a significant (P< 0.05) increase in high density lipoprotein cholesterol. Reductions in low density lipoprotein cholesterol (-5.0%, P< 0.05), triglycerides (-3.7%, P< 0.05%), and total cholesterol (-1%, not significant) were observed less frequently (independent of dietary interventions). Exercise lowered blood pressure in people who were normotensive or hypertensive; overweight or of normal weight; and black, white, or Asian. The dose response of exercise for reducing CVD risk is well recognised.|Regular physical activity is associated with reduced risk of metabolic syndrome. The available data demonstrate an inverse dose-response association between level of activity and risk of metabolic syndrome, with the minimal amount of activity to prevent metabolic syndrome ranging from 120 to 180 minutes per week of moderate-intensity physical activity, and many studies supporting a goal of 150 minutes per week. Numerous studies have examined the benefits of exercise training on individual components of metabolic syndrome, such as blood pressure or fasting glucose. Using data from the HERITAGE study, Katzmarzyk and colleagues report that 20 weeks of aerobic training were associated with improvements in triglycerides, blood pressure, fasting glucose, and waist circumference among 105 participants who had metabolic syndrome at baseline. Further, the prevalence of metabolic syndrome decreased 30.5% in this sub-set of participants who received exercise training.|
 
-#### Key question 16. 대사증후군의 예방 및 치료에 효과적인 유산소운동의 방법은 무엇인가?
+### Key question 16. 대사증후군의 예방 및 치료에 효과적인 유산소운동의 방법은 무엇인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |It can be supplemented by an increase in physical exercise as part of daily lifestyle activities. Lifestyle modification emphasized reducing caloric intake, principally by reduction of fat to less than 25% of energy, decreasing saturated fats, increasing dietary fiber, and increasing physical activity by at least 150 min/wk moderate-intensity exercise equivalent to brisk walking. Maintain physical activity at least 150 min/wk with moderate exercise, such as walking or biking.|Healthy adults of all ages should spend 2.5-5 hours a week on physical activity or aerobic exercise training of at least moderate intensity, or 1-2.5 hours a week on vigorous intense exercise. Sedentary subjects should be strongly encouraged to start light-intensity exercise programmes. Physical activity/aerobic exercise training should be performed in multiple bouts each lasting ≥10 min and evenly spread throughout the week, i.e., on 4-5 days a week.|Physical activity should include occupational and/or leisure time activity and incorporate accumulated bouts of moderate intensity activities such as brisk walking|없음|
 
-#### Key question 17. 저항성운동이 대사증후군 예방 및 치료에 효과적인가?
+### Key question 17. 저항성운동이 대사증후군 예방 및 치료에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |없음|없음|없음|Very few studies have examined the role of resistance training or quantified muscular strength in preventing or treating metabolic syndrome (56-58). In both a cross-sectional and longitudinal report from the Aerobic Center Longitudinal Database, greater muscular strength was associated with lower risk of metabolic syndrome. However, in the report using longitudinal data, the degree of risk reduction associated with greater levels of strength was attenuated (from −34% to −24%) when cardiorespiratory fitness was adjusted for.|
 
-#### Key question 18. 대사증후군 환자에서 메트포르민 복용이 대사증후군 치료에 효과적인가?
+### Key question 18. 대사증후군 환자에서 메트포르민 복용이 대사증후군 치료에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |Metformin treatment reduced the risk by 17% and the intensive lifestyle modification intervention decreased it by 41%. Furthermore, in subjects who had metabolic syndrome at baseline, the intensive lifestyle modification intervention resulted in a reversal of the syndrome in 38%, whereas reversal occurred in 18% of the control group. Glucose concentrations can be reduced by either metformin or a thiazolidinedione.|Metformin should be used as first-line therapy if tolerated and not contraindicated.|Insulin sensitising drugs (e.g., metformin, glitazones) are known to be effective in centrally obese patients with overt diabetes, and may also be useful in patients with metabolic syndrome and at high risk.|없음|
 
-#### Key question 19. 대사증후군 환자에서 아스피린의 투여가 심뇌혈관질환의 예방에 효과적인가?
+### Key question 19. 대사증후군 환자에서 아스피린의 투여가 심뇌혈관질환의 예방에 효과적인가?
 |Backbone 1|Backbone 2|Backbone 3|Backbone 4|
 |---|---|---|---|
 |In individuals at metabolic risk who are over age 40 and whose 10-year risk is more than 10%, we recommend that low-dose aspirin prophylaxis for primary prevention of CVD (75-162 mg/d) be considered if there are no contraindications. We suggest that aspirin therapy be instituted (if not contraindicated) when 10-year risk for CHD exceeds 10%. The existing evidence indicates that aspirin therapy will reduce risk for CVD in primary prevention. On the other hand, a small fraction of treated subjects will experience major bleeding episodes including stroke. Even so, the aspirin prophylaxis option is favored by the American Heart Association. It must be noted nonetheless that some authorities express caution about the use of aspirin for primary prevention; they contend that the benefit-to-risk ratio is not high enough to justify aspirin therapy in this risk category.|Antiplatelet therapy with aspirin is not recommended for people with diabetes who do not have clinical evidence of atherosclerotic disease. Antiplatelet therapy, in particular low-dose aspirin, is recommended for hypertensive patients with cardiovascular events. In patients receiving aspirin, careful attention should always be paid to the increased possibility of bleeding, particularly gastrointestinal. They analysed data from 4500 diabetic patients in the trials and concluded that treatment with antiplatelet drugs (mainly aspirin) resulted in a 25% significant reduction in risk of cardiovascular events. The role of aspirin in primary prevention remains unproven. In the HOT Study (Hypertension Optimal Treatment Study), 75 mg of aspirin further reduced the risk of major cardiovascular events in well-controlled hypertensive patients with diabetes, but non-fatal major bleeds were significantly more common among patients receiving aspirin. Aspirin is no longer recommended for primary prevention in people with diabetes.|
