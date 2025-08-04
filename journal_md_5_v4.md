@@ -96,7 +96,7 @@
 대상자의 인구사회학적 특성은 다음과 같다 (Table 1). 성별은 82.0%가 남자였으며 평균 연령은 38.7세였다. 학력은 대학교졸업이 76.6%, 결혼 유무에서 기혼자가 71.3%로 많았다. 동거 가족 수는 평균 2.6명으로 나타났고 직종에서는 주방에서 일하는 조리직이 60.5%, 경력 년수는 20년 이상이 25.7%로 가장 많았다. 주관적 건강 상태는 보통이다로 응답한 사람이 49.7%로 가장 많았으며 질병 유무 문항에서는 질병 없음이  84.4%, 대사증후군 가족력을 가지지 않았다고 응답한 사람이 61.7%, 대사증후군에 대해 알고 있다고 인지한 사람이 61.1%, 대사증후군 교육경험으로는 비경험자가 78.4%
 로 가장 많았다. 비흡연자가 62.9%로 많았고, 흡연 지속 년수는 평균 14.8년으로 나타났고, 하루 피는 담배 개비 수는 11.1개피로 나타났다. 음주자는 57.5%로 많았고, 음주자 중 음주 횟수는 주 2회 40.6%로 많았고, 소주 기준 일회 음주량은 평균 7.7잔으로 나타났다.
 
-#### Table 1. Sociodemographic Characteristics (N=167)
+**Table 1. Sociodemographic Characteristics (N=167)**
 
 |Variables|Categories|n (%) or M±SD|
 |---|---|---|
@@ -157,7 +157,7 @@
 
 ---
 
-#### Table 2. Metabolic Syndrome Risk Factor Characteristics (N=167)
+**Table 2. Metabolic Syndrome Risk Factor Characteristics (N=167)**
 
 |Variables|Categories| |n (%)|M±SD|p|
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 
 ---
 
-#### Table 3. Health Promotion Behavior Intention and Health Promotion Behavior in Accordance with Sociodemographic Characteristics (N=167)
+**Table 3. Health Promotion Behavior Intention and Health Promotion Behavior in Accordance with Sociodemographic Characteristics (N=167)**
 
 |Characteristics|Categories| Health promotion behavior intention(M±SD)|""(t or F)|""(p) |Health promotion behavior(M±SD)|""(t or F) |""(p) |
 |---|---|---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 
 본 연구는 대사증후군 고위험 근로자를 대상으로 건강증진 행위에 영향을 미치는 요인들을 파악하여 대사증후군 고위험 근로자의 건강증진 행위 변화를 위한 전략 수립에 필요한 자료를 제공하고자 시도하였다.
 
-#### Table 4. Factors Affecting Health Promotion Behavior Intention (N=167)
+**Table 4. Factors Affecting Health Promotion Behavior Intention (N=167)**
 
 |Variables|Step 1|||||Step 2|||||
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -256,7 +256,7 @@ step1 : Adjusted R²=.07, F=4.06, p=.004, step2: Adjusted R²=.62, F=40.09, p＜
 SHS=subjecitve health status; SN=subjective norm; PBC=perceived behavioral control;  
 †Dummy variables: Gender (1=Male), Education (1=Under highschool), Drinking status (1=Yes).
 
-#### Table 5. Factors Affecting Health Promotion Behavior (N=167)
+**Table 5. Factors Affecting Health Promotion Behavior (N=167)**
 
 |Variables|Step 1|||||Step 2|||||Step 3|||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
